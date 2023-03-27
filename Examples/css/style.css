@@ -1,0 +1,24 @@
+#div_1{
+    border: 5px solid rgb(48, 7, 131);
+}
+#div_2{
+    border: 10px dashed yellow;
+    padding: 24px
+}
+#div_3{
+    border: 20 dotted cadetblue;
+    padding: 40;
+    Margin: 20;
+}
+#div_4{
+    border: 2px solid orange;
+    padding: 25px;
+    margin: 2px;
+}
+#div_5{
+    background-color: rgb(210, 253, 253);
+    color: orange;
+}
+#div_6{
+    padding-left:30px;
+    border: solid 1px lightcoral;\
