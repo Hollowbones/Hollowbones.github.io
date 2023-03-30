@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(232, 245, 255);
+}
+header{
+    background-color:salmon;
+    color: white;
+    height: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ 
+
+}
+nav a{
+    color: white;
+    font-size: 10px;
+
+
+}
+.card{
+    box-shadow: 1px 1px 3px salmon;
+    background-color: white;
+}
+div{
+   
+    padding:24px;
+    width: 600px;
+    
+
+}
+footer{
+    background-color: salmon;
+    padding: 15px;
+}
+image contanier{
+    float: left;
+    padding: right 24px;
+}
+h3{
+    margin-left: 24px;
+}
