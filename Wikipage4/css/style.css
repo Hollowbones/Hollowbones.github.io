@@ -1,0 +1,60 @@
+
+.image_container img {
+    width: 100%;
+    margin: 1px;
+}
+.right {
+    float: right;
+    
+}
+.image_container{
+    width: 200px;
+    border: solid 1px grey;
+    margin: 1px;
+    font-size: 13px;
+}
+.image_container2 img {
+    width: 97%;
+    margin: 4px;
+}
+.right {
+    float: right;
+    
+}
+.image_container2{
+    width: 250px;
+    border: solid 1px grey;
+    margin: 1px;
+    font-size: 13px;
+}
+.image_container3 img {
+    width: 97%;
+    margin: 1px;
+}
+.right {
+    float: right;
+    
+}
+.image_container3{
+    width: 250px;
+    margin: 1px;
+}
+.image_container4 img {
+    width: 100%;
+    margin: 3px;
+}
+.right {
+    float: right;
+    
+}
+.image_container4{
+    width: 300px;
+    margin: 1px;
+}
+.right_stacked {
+    float:right;
+    clear: both;
+}
+Predators {
+    font-weight:20px;
+}
