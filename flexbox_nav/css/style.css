@@ -1,0 +1,33 @@
+ul{
+  display: flex;  
+  list-style-type:none;
+  padding: 0px;
+  justify-content:flex-end;
+  max-width:800px;
+  margin: 0px auto;
+}
+/*display: flex makes side by side*/
+/*list-style-type makes bulletts dissapear*/
+nav{
+    background-color:skyblue;
+    padding:24px;
+}
+body{
+    margin: 0px;
+}
+ul li{
+    margin: 12px;
+}
+li a{
+    color:rgb(253, 253, 173);
+    text-decoration:none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#home{
+    margin-right:auto;
+}
+@media screen and (max-width: 768px) {
+   ul{
+    flex-direction:column;
+   }
+}
